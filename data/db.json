@@ -45,17 +45,8 @@
         "m3"
       ],
       "createdAt": "2026-07-02T07:31:16.856Z"
-    },
-    {
-      "id": "u3",
-      "email": "sayanic181@gmail.com",
-      "passwordHash": "oo0o",
-      "name": "sathi",
-      "role": "user",
-      "addresses": [],
-      "wishlist": [],
-      "createdAt": "2026-07-02T08:48:30.117Z"
     }
+    
   ],
   "menu": [
     {
